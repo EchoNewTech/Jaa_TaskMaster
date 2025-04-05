@@ -1,0 +1,4 @@
+TASK -  Zadanie 1 - 0 - 2024-07-01 - sredni
+TASK -  Zadanie 2 - 0 - 2024-06-10 - niski
+EVENT - Wydarzenie 1 - 0 - 2024-08-05 - niski - Krakow
+EVENT - Wydarzenie 3 - 0 - 2024-06-07 - wysoki - Wroclaw
